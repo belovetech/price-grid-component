@@ -91,6 +91,9 @@ body {
     color: hsl(204, 43%, 93%);
     font-size: 16;
 }
+footer > p{
+    color: #000;
+}
 /* MOBILE VIEW */
  @media screen and (max-width: 768px) {
     .container {
